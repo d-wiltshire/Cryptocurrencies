@@ -12,3 +12,6 @@ The process consisted of four deliverables:
 
 The code for these deliverables can be found in the crypto_clustering.ipynb file, and an image of the visualization deliverable can be found below:
 
+
+![18finalviz](https://user-images.githubusercontent.com/100863488/176957677-cbbb5983-8e03-4a46-8167-40487a8a55f5.png)
+
